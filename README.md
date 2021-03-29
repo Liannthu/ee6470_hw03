@@ -1,1 +1,6 @@
-# ee6470_hw03
+# Sobel Edge Detector
+
+## SystemC Simulation
+
+- make run
+
